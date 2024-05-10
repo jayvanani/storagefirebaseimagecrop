@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "555699589958",
+    "project_id": "imagecropstorage-7861c",
+    "storage_bucket": "imagecropstorage-7861c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555699589958:android:96c7aed019e21f73164b47",
+        "android_client_info": {
+          "package_name": "com.example.imagecropfirebasestorage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfMLTc1eny-P06bkubqOUIoo3B1kp7X3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
